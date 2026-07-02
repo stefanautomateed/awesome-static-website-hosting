@@ -22,6 +22,7 @@ If you'd like to contribute, see [Contribution Guidelines](/awesome-static-websi
 - [Neocities](https://neocities.org/) - You can go with the built-in "in browser html editor", or drag and drop your files directly into your website.
 - [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Awesome alternative to Github Pages - choose Github, GitLab, or BitBucket to host your repository, and then publish unlimited repositories for free with Netlify. Offers automatic form handling, SSL for custom domains, works automatically with ALL static site generators, and 1-click rollbacks to previous versions of your website, without using branches.
 - [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons.
+- [Nippy](https://nippy.host) - **Tech Lvl: 1/5** - Drag in files, photos, or a whole folder and get a permanent public link - no build step, git, or command line required. Photos become a gallery and files become a download page automatically. The free plan includes one site, 25 MB, and a your-name.nippy.site address.
 
 ## Super Cheap
 - [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - Amazon Web Services offers a free usage tier for hosting static websites, and if you stay within it your monthly cost can come out to <$1.00. AWS Scales easily and is very robust, but can be difficult for less "techy" people.
